@@ -1,5 +1,4 @@
 package Cucumber;
-import java.io.IOException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
@@ -15,7 +14,7 @@ public class Hooks {
 
 		@BeforeAll
 
-	   public static void setup() throws IOException, InterruptedException
+	   public static void setup() throws Exception
 
 	   {
 			
