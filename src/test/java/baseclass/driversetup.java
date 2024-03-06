@@ -29,7 +29,7 @@ public class driversetup {
 //	 	String Browser=us.nextLine();
 //		String Browser = "1";
 
-	/*	switch (string) {
+	/*switch (string) {
 
 		case "1":
 

@@ -19,8 +19,9 @@ WebElement google;
 
 @FindBy(xpath="//input[@class='whsOnd zHQkBf']")
 WebElement email;
+//'o6cuMc Jj6Lae'
 
-@FindBy(xpath="//div[@class='o6cuMc Jj6Lae']")
+@FindBy(xpath="//div[@class='Ekjuhf Jj6Lae']")
 WebElement errormsg;
 
 public void login() {
